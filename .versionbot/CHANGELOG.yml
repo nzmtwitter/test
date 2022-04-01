@@ -12,8 +12,8 @@
       author: Kyle Harding
       nested: []
   version: 2.1.1
-  title: "'worker: Add application locks when worker is busy'"
-  date: 2022-03-30T19:40:41.066Z
+  title: "'Configure Renovate'"
+  date: 2022-04-01T15:11:44.763Z
 - commits:
     - subject: "Makefile: Install docker-compose binary from releases page"
       hash: 107fc2ee27481aacb4176c431f7cc03fe426161a
